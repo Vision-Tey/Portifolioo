@@ -5,7 +5,7 @@
 //         }else
 //     })
 // });
-$(document).ready(function(){
+// $(document).ready(function(){
     //toggle menu/navbar script
     $('.menu-btn').click(function(){
         $('.navbar .menu').toggleClass("active");
@@ -33,4 +33,4 @@ $(document).ready(function(){
             }
         }
     });
-});
+// });
