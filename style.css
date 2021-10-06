@@ -531,6 +531,32 @@ footer span a:hover{
 }
 
 
+/* styling socials */
+.socials{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    right: 1%;
+    bottom: 50%;
+}
+.socicon{
+    width: 2rem;
+    height: 2rem;
+    padding-top: 5px;
+}
+.scroll-up{
+    position: fixed;
+    right: 0.5%;
+    bottom: 3%;
+    cursor: pointer;
+    background: rgb(13, 105, 133);
+}
+.up-arrow{
+    width: 2.5rem;
+    height: 2.5rem;
+    background: rgb(13, 105, 133);
+}
+
 
 
 
